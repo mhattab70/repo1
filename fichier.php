@@ -1,4 +1,4 @@
 <?php
 echo "TEST GIT";
-die();
+echo "Voici ma deuxième modification"; 
 ?>
