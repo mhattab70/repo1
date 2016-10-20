@@ -11,3 +11,8 @@ color: #effeff;
 .classPara{
    background-color: #ffbbcd;
 }
+.classTest{
+display: block;
+margin: 0 0 2px 2px;
+padding: 2% 2% 2% 2%;
+}
